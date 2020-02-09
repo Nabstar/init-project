@@ -5,3 +5,4 @@ Item		Price
 Milk		N100
 Sugar		N400
 Butter		N50
+Kerosine	N900
