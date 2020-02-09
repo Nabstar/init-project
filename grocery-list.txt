@@ -6,3 +6,4 @@ Milk		N100
 Sugar		N400
 Butter		N50
 Kerosine	N900
+Cheese		N200
